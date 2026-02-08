@@ -1,7 +1,8 @@
-# AI 100 Commits
+# AI-100-Commits
 
-This is an incrementally updated README file for the AI 100 commits project.
+This repository is designed to simulate development activity through incremental updates.
 
-## Updates
+Update: Minor wording tweak added for clarity in the project description.
 
-- Incremental update for commit #2
+## License
+This project is licensed under the MIT License.
